@@ -7,7 +7,7 @@ class ApiService {
     _dio.options = BaseOptions(
       baseUrl: 'https://fe-beta.fleetenable.com/api/v2', // Set base URL
       headers: {
-        'Authorization': 'bearer u8xFGqyg0QUecfZA4sooyWVRimSrcaBoOqCCTnp1L84',
+        'Authorization': '',
         'Content-Type': 'application/json',
       },
     );
